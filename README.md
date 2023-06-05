@@ -1,4 +1,4 @@
-## Opa você chegou ao meu Github, fica avontade para dar uma olhada 🤔
+## Opa você chegou ao meu Github, fica a vontade para dar uma olhada 🤔
 
 - 🔭 Atualmente trabalhando com suporte a sistemas
 - 🌱 Estudando Python
