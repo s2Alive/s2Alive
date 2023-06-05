@@ -2,16 +2,12 @@
 
 - 🔭 Atualmente trabalhando com suporte a sistemas
 - 🌱 Estudando Python
+- ✨ A indecisão é semente da derrota
 
 <a href="https://github.com/s2Alive/s2Alive">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s2Alive&show_icons=true&theme=tokyonight" />
   <img align="center" alt="Alive-Csharp" height="300" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2Alive&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut-vertical&theme=tokyonight" />
 </a>
-
-
-
-
-
 
 
 <div style="display: inline_block"><br>
@@ -31,7 +27,6 @@
  	<a href="https://www.twitch.tv/ss2alive" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigocorreiaba753@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-correia-10154121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  A indecisão é semente da derrota
-  
+  <a><img align="center" src="https://github.com/s2Alive/s2Alive/assets/93962428/029f2eb1-82ff-4057-82b5-19364a876340" width="250" height="150" /></a>
 </div>
 
